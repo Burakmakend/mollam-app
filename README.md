@@ -61,6 +61,9 @@ Bu repo uygulamanın tanıtım amaçlı vitrinidir; kaynak kod kapalıdır.
 ## 👤 Geliştirici
 
 **Burak Özdemir** — [App Store](https://apps.apple.com/tr/developer/burak-ozdemir/id1896532113) · [GitHub](https://github.com/Burakmakend) · [LinkedIn](https://www.linkedin.com/in/burakozdemir42/)
+
 **Muhammed Efe Özdemir**
+
 **Melih Ödev**
+
 © 2026 Burak Özdemir
